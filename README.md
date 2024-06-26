@@ -8,20 +8,20 @@ https://vijaysblogapp.ccbp.tech/
 
 Some more details:
 1. Blog Post List:
-  ○ Display a list of blog posts with the following details:
+ ○ Display a list of blog posts with the following details:
     ■ Title
     ■ Author
     ■ Summary
     ■ Publication date
-2. View Post:
+3. View Post:
   ○ Click on a blog post to view the full content.
-3. Add Post:
+4. Add Post:
   ○ Form to add a new blog post with the following details:
     ■ Title
     ■ Author
     ■ Content
     ■ Publication date
-4. Edit Post:
+5. Edit Post:
   ○ Ability to edit an existing blog post.
-5. Delete Post:
+6. Delete Post:
   ○ Ability to delete a blog post.
